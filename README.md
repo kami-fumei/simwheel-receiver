@@ -4,7 +4,7 @@
 # 🏎️ SimWheel Connect  
 **Turn Your Phone into a Steering Wheel for PC!**  
 
-Transform your **Android phone** into a powerful, customizable **steering wheel and game controller** for PC driving simulators like **Euro Truck Simulator 2 (ETS2)**, **Forza Horizon**, and more.  
+Transform your **Android phone** into a powerful, customizable **steering wheel and game controller** for PC driving simulators like **Euro Truck Simulator 2 (ETS2)**,and more.  
 
 > 🛞💡 Perfect for sim racing fans without a physical wheel, or anyone who wants a portable, wireless setup.  
 > Control your games **intuitively** over Wi‑Fi — no cables, no hassle.  
